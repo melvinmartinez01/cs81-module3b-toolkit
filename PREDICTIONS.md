@@ -14,3 +14,7 @@ If I use 4 as n, I expect the out to be true.
 ## isOdd()
 I predict that this function will return true is n is odd (not divisible by 2 evenly) and false otherwise.
 If I use 5 as n, I expect the output to be true.
+
+## multiply(a, b)
+I predict that this function will return the prodcut of a and b. 
+If I use 3 as a and 4 as b, I expect the output to be 12. 
